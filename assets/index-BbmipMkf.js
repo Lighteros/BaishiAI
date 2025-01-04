@@ -21687,7 +21687,7 @@ function zE() {
           className: "links",
           children: [
             i.jsx("a", { href: "", className: "faq" }),
-            i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", className: "pitchdeck" }),
+            i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023", className: "pitchdeck" }),
             i.jsx("a", { href: "/revenue", className: "revenue" }),
             i.jsx("a", { href: "/tokenomics", className: "tokenomics" }),
           ],
@@ -22099,7 +22099,7 @@ function KE() {
           className: "links",
           children: [
             i.jsx("a", { href: "/whitepaper", className: "whitepaper" }),
-            i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", className: "pitchdeck" }),
+            i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023", className: "pitchdeck" }),
             i.jsx("a", { href: "/revenue", className: "revenue" }),
             i.jsx("a", { href: "/tokenomics", className: "tokenomics" }),
           ],
@@ -23002,7 +23002,7 @@ function nT() {
               children: [
                 i.jsx("a", { href: "/whitepaper", className: "whitepaper" }),
                 i.jsx("a", { href: "/faq", className: "faq" }),
-                i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", className: "pitchdeck" }),
+                i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023", className: "pitchdeck" }),
                 i.jsx("a", { href: "/tokenomics", className: "tokenomics" }),
               ],
             }),
@@ -23111,7 +23111,7 @@ function mT() {
               children: [
                 i.jsx("a", { href: "/whitepaper", className: "whitepaper" }),
                 i.jsx("a", { href: "/faq", className: "faq" }),
-                i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", className: "pitchdeck" }),
+                i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023", className: "pitchdeck" }),
                 i.jsx("a", { href: "/revenue", className: "revenue" }),
               ],
             }),
@@ -27006,7 +27006,7 @@ const d7 = xs(by),
           children: [
             i.jsx("a", {
               className: "btn",
-              href: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
+              href: "https://www.dextools.io/app/en/ether/pool-explorer/0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023",
               children:
                 r() == "en"
                   ? "X"
@@ -27016,7 +27016,7 @@ const d7 = xs(by),
             }),
             i.jsx("a", {
               className: "btn",
-              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023",
               children:
                 r() === "en" ? "Buy" : r() === "cn" ? "常问问题" : "Buy",
             }),
@@ -32410,7 +32410,7 @@ const $9 = {
               //           ],
               //         }),
               //         i.jsxs("a", {
-              //           href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+              //           href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023",
               //           className: "menu-item",
               //           children: [
               //             i.jsx("img", {
@@ -34835,7 +34835,7 @@ function sO() {
           className: "mobile-container mobile-ai-integration",
           children: [
             i.jsx("img", { src: rO, className: "full" }),
-            i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", className: "pitchdeck" }),
+            i.jsx("a", { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023", className: "pitchdeck" }),
             i.jsx("a", { href: "/faq", className: "faq" }),
             i.jsx("a", { href: "/tokenomics", className: "tokenomics" }),
           ],
@@ -35124,7 +35124,7 @@ function UO() {
         }),
       }),
       i.jsx("a", {
-        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023",
         children: i.jsx("img", {
           src: VO,
           className: "pitchdeck button-style",
@@ -35287,7 +35287,7 @@ function WO() {
         e.pathname !== "/waitlist-join" &&
           e.pathname !== "/waitlist-confirm" &&
           e.pathname !== "/home" &&
-          e.pathname !== "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000" &&
+          e.pathname !== "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023" &&
           e.pathname !== "/aifi" &&
           e.pathname !== "/ai-integration" &&
           e.pathname !== "/faq" &&
@@ -35331,7 +35331,7 @@ function WO() {
                 i.jsx(X, { path: "/videos", element: i.jsx(cE, {}) }),
                 i.jsx(X, { path: "/support", element: i.jsx(gE, {}) }),
                 i.jsx(X, { path: "/whitepaper", element: i.jsx(zE, {}) }),
-                i.jsx(X, { path: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", element: i.jsx(YE, {}) }),
+                i.jsx(X, { path: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023", element: i.jsx(YE, {}) }),
                 i.jsx(X, { path: "/faq", element: i.jsx(KE, {}) }),
                 i.jsx(X, { path: "/revenue", element: i.jsx(nT, {}) }),
                 i.jsx(X, { path: "/tokenomics", element: i.jsx(mT, {}) }),
