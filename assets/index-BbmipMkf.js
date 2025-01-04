@@ -27006,7 +27006,7 @@ const d7 = xs(by),
           children: [
             i.jsx("a", {
               className: "btn",
-              href: "https://www.dextools.io/app/en/ether/pool-explorer/0xC38DC300c5Cb2B75Ef9135327e880D130E8DF023",
+              href: "https://www.dextools.io/app/en/ether/pair-explorer/0xbc1ac4aa79d3865ee7e1ebee4a04d6d94aa23b37",
               children:
                 r() == "en"
                   ? "X"
