@@ -17184,12 +17184,12 @@ function EC() {
                   i.jsx("a", { href: "/home", className: "earn-more" }),
                   i.jsx("a", { onClick: () => s(!0), className: "apply-now" }),
                   i.jsx("a", {
-                    href: "https://t.me/Baishi_eth",
+                    href: "https://t.me/playbaishiAI",
                     className: "telegram",
                     target: "_blank",
                   }),
                   i.jsx("a", {
-                    href: "https://x.com/Baishi_eth",
+                    href: "https://x.com/playbaishiAI",
                     className: "twitter",
                     target: "_blank",
                   }),
@@ -18978,12 +18978,12 @@ function t5() {
             }),
             i.jsx("a", { href: "/home", className: "earn-more" }),
             i.jsx("a", {
-              href: "https://t.me/Baishi_eth",
+              href: "https://t.me/playbaishiAI",
               target: "_blank",
               className: "telegram",
             }),
             i.jsx("a", {
-              href: "https://x.com/Baishi_eth",
+              href: "https://x.com/playbaishiAI",
               target: "_blank",
               className: "twitter",
             }),
@@ -19243,7 +19243,7 @@ function l5() {
                 className: "flex gap-2",
                 children: [
                   i.jsx("a", {
-                    href: "https://t.me/Baishi_eth",
+                    href: "https://t.me/playbaishiAI",
                     target: "_blank",
                     children: i.jsx("img", {
                       draggable: "false",
@@ -19252,7 +19252,7 @@ function l5() {
                     }),
                   }),
                   i.jsx("a", {
-                    href: "https://x.com/Baishi_eth",
+                    href: "https://x.com/playbaishiAI",
                     target: "_blank",
                     children: i.jsx("img", {
                       draggable: "false",
@@ -19470,12 +19470,12 @@ function h5() {
             }),
             i.jsx("a", { href: "/home", className: "earn-more" }),
             i.jsx("a", {
-              href: "https://t.me/Baishi_eth",
+              href: "https://t.me/playbaishiAI",
               className: "telegram",
               target: "_blank",
             }),
             i.jsx("a", {
-              href: "https://x.com/Baishi_eth",
+              href: "https://x.com/playbaishiAI",
               className: "twitter",
               target: "_blank",
             }),
@@ -20476,12 +20476,12 @@ function eE() {
                   i.jsx("img", { src: $5 }),
                   i.jsx("a", { href: "/home", className: "earn-more" }),
                   i.jsx("a", {
-                    href: "https://t.me/Baishi_eth",
+                    href: "https://t.me/playbaishiAI",
                     className: "telegram",
                     target: "_blank",
                   }),
                   i.jsx("a", {
-                    href: "https://x.com/Baishi_eth",
+                    href: "https://x.com/playbaishiAI",
                     className: "twitter",
                     target: "_blank",
                   }),
@@ -21635,12 +21635,12 @@ function ME() {
             }),
             i.jsx("a", { href: "/home", className: "earn-more" }),
             i.jsx("a", {
-              href: "https://t.me/Baishi_eth",
+              href: "https://t.me/playbaishiAI",
               className: "telegram",
               target: "_blank",
             }),
             i.jsx("a", {
-              href: "https://x.com/Baishi_eth",
+              href: "https://x.com/playbaishiAI",
               className: "twitter",
               target: "_blank",
             }),
@@ -22466,12 +22466,12 @@ function oP() {
         }),
         i.jsx("a", { href: "/home", className: "earn-more" }),
         i.jsx("a", {
-          href: "https://t.me/Baishi_eth",
+          href: "https://t.me/playbaishiAI",
           className: "telegram",
           target: "_blank",
         }),
         i.jsx("a", {
-          href: "https://x.com/Baishi_eth",
+          href: "https://x.com/playbaishiAI",
           className: "twitter",
           target: "_blank",
         }),
@@ -22878,12 +22878,12 @@ function gP() {
         }),
         i.jsx("a", { href: "/home", className: "earn-more" }),
         i.jsx("a", {
-          href: "https://t.me/Baishi_eth",
+          href: "https://t.me/playbaishiAI",
           className: "telegram",
           target: "_blank",
         }),
         i.jsx("a", {
-          href: "https://x.com/Baishi_eth",
+          href: "https://x.com/playbaishiAI",
           className: "twitter",
           target: "_blank",
         }),
@@ -23510,11 +23510,11 @@ function JP() {
           i.jsxs("div", { className: "current", children: [h, "/", a.length] }),
           i.jsx("a", { onClick: () => E(!0), className: "applynow" }),
           i.jsx("a", {
-            href: "https://t.me/Baishi_eth",
+            href: "https://t.me/playbaishiAI",
             className: "telegram",
           }),
           i.jsx("a", {
-            href: "https://x.com/Baishi_eth",
+            href: "https://x.com/playbaishiAI",
             className: "twitter",
           }),
           i.jsx(z, { isOpen: C, setIsOpen: E }),
@@ -23755,12 +23755,12 @@ function _P() {
             }),
             i.jsx("a", { href: "/home", className: "earn-more" }),
             i.jsx("a", {
-              href: "https://t.me/Baishi_eth",
+              href: "https://t.me/playbaishiAI",
               className: "telegram",
               target: "_blank",
             }),
             i.jsx("a", {
-              href: "https://x.com/Baishi_eth",
+              href: "https://x.com/playbaishiAI",
               className: "twitter",
               target: "_blank",
             }),
@@ -23880,11 +23880,11 @@ function iT() {
           }),
           i.jsx("a", { href: "/home", className: "earn-more" }),
           i.jsx("a", {
-            href: "https://t.me/Baishi_eth",
+            href: "https://t.me/playbaishiAI",
             className: "telegram",
           }),
           i.jsx("a", {
-            href: "https://x.com/Baishi_eth",
+            href: "https://x.com/playbaishiAI",
             className: "twitter",
           }),
           g &&
@@ -33449,7 +33449,7 @@ function DB(e) {
         }),
       }),
       i.jsx("a", {
-        href: "https://x.com/Baishi_eth",
+        href: "https://x.com/playbaishiAI",
         children: i.jsx("img", {
           src: e.lang === "en" ? RB : OB,
           className: "share-us button-style flicker",
